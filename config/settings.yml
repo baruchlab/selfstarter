@@ -54,7 +54,7 @@ progress_text: "Implemented"
 # Call to action section
 
 # On Lockitron, it's "First Batch Ships in March 2013"
-ships: "Octo P7C-1 Prototype Launching June 29th, at transmediale 2013"
+ships: "Octo P7C-1 Prototype Launching January 29th, at <a href="http://www.transmediale.de/content/pluto-y-u-no-planet-opening-ceremony-transmediale-2013-bwpwap">transmediale 2013</a>"
 
 # On Lockitron, it's "Reserve Now"
 call_to_action: "Invest Now"
